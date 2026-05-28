@@ -4,6 +4,8 @@ A modern, responsive multi-step onboarding form built with React.js, Vite, and T
 
 ---
 
+## Live Link: https://internship-mission7-registration-wi.vercel.app/
+
 ## Preview
 
 ```
@@ -15,6 +17,16 @@ Step 3 — Review & Submit        →   Summary of all entered data + Submit
 After successful submission, a polished **Success Screen** replaces the form.
 
 ---
+
+## Screenshots
+
+<img width="1919" height="885" alt="Screenshot 2026-05-28 142302" src="https://github.com/user-attachments/assets/df28c0e3-954f-416e-be26-4d07f4dd4d0b" />
+
+<img width="1919" height="892" alt="Screenshot 2026-05-28 142409" src="https://github.com/user-attachments/assets/39d4ae29-984c-4e44-95fc-d5ab672363a4" />
+
+<img width="1919" height="876" alt="Screenshot 2026-05-28 142457" src="https://github.com/user-attachments/assets/edfeec4d-208b-4fe5-a032-a12353ccb30d" />
+
+
 
 ## Tech Stack
 
